@@ -1,0 +1,2 @@
+# update blacklist each 4 hours
+0 */4 * * * * root /usr/local/bin/voipbl.sh
